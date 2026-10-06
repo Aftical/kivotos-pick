@@ -1,0 +1,185 @@
+* {
+  margin:  0px;
+  padding: 0px;
+}
+
+body {
+  font-family: sans-serif;
+  background-color: rgb(245, 255, 255);
+  width: 100%hv;
+}
+
+#HEADERS {
+  padding: 30px 0px 0px 0px;
+  text-align: center;
+
+  h6 {
+    color: rgb(70, 201, 255);
+    font-weight: normal;
+  }
+
+  h2 {
+    font-weight: bold;
+  }
+
+  p {
+    font-weight: normal;
+    font-size: 10px;
+  }
+}
+
+#MAIN {
+  display: flex;
+  margin: 5px;
+  justify-content: center;
+  flex-wrap: wrap;
+
+  p {
+    display: flex;
+    justify-content: center;
+    color: rgb(0, 0, 0);
+  }
+  
+  .academy {
+    color: rgb(150, 150, 150);
+  }
+}
+
+#FOOTER {
+  margin: 5px 20px 0px 20px;
+  display: flex;
+  justify-content: flex-left;
+
+  .right-text {
+    margin-left: auto;
+    text-align: right;
+  }
+
+  p {
+    font-weight: normal;
+    color: rgb(210, 210, 210);
+  }
+}
+
+.bottom-img {
+  display: flex;
+  justify-content: center;
+}
+
+hr {
+  border: solid 1px;
+}
+
+.hr-bottom {
+  border: solid 1px rgb(210, 210, 210);
+  margin: 0px 10px 0px 10px;
+}
+
+.blue-hr {
+  border: solid 1px rgb(70, 201, 255);
+  margin: 0px 10px 0px 10px;
+}
+
+.square-box {
+  margin: 3px;
+  width: 80px;
+
+  img {
+    width: 78.5px;
+    height: 78.5px;
+    object-fit: cover;
+    object-position: center;
+    border: solid 1px #00000033;
+  }
+
+  .emblem {
+    width: 40px;
+    height: 40px;
+    margin: 0 0 0 20px;
+    object-fit: fill;
+    object-position: center;
+    border: solid 1px #00000000;
+    border-bottom: solid 1.5px rgb(210, 210, 210);
+  }
+
+  .border-picture-nonomi {
+    color: rgb(0, 255, 80);
+    margin: auto;
+  }
+
+  .border-picture-aru {
+    color: rgb(255, 0, 80);
+    margin: auto;
+  }
+
+  .border-picture-aris {
+    color: rgb(0, 209, 255);
+    margin: auto;
+  }
+
+  .border-picture-airi {
+    color: rgb(0, 255, 180);
+    margin: auto;
+  }
+
+  .border-picture-hiyori {
+    color: rgb(0, 133, 255);
+    margin: auto;
+  }
+
+  .border-picture-michiru {
+    color: rgb(176, 0, 255);
+    margin: auto;
+  }
+
+  .border-picture-shun {
+    color: rgb(102, 0, 151);
+    margin: auto;
+  }
+
+  .border-picture-momiji {
+    color: rgb(255, 102, 102);
+    margin: auto;
+  }
+
+  .border-picture-konoka {
+    color: rgb(255, 218, 102);
+    margin: auto;
+  }
+
+  .border-picture-kurumi {
+    color: rgb(194, 255, 102);
+    margin: auto;
+  }
+
+  .border-picture-aoba {
+    color: rgb(255, 250, 102);
+    margin: auto;
+  }
+
+  .border-picture-rena {
+    color: rgb(255, 206, 102);
+    margin: auto;
+  }
+
+  .border-picture-kotone {
+    color: rgb(102, 169, 255);
+    margin: auto;
+  }
+
+  .border-picture-momoka {
+    color: rgb(255, 142, 249);
+    margin: auto;
+  }
+
+  .border-picture-kiaryn {
+    color: rgb(255, 96, 183);
+    margin: auto;
+  }
+}
+
+p {
+  font-size: 10px;
+  font-weight: bold;
+  color: rgb(150, 150, 150);
+}
