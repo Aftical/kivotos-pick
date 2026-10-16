@@ -1,4 +1,3 @@
-![headband](Student-icons/Aris_Headband.png)
 ## Kivotos pick ##
 this is my webpage inspired by vercel kivotos pick.
 ![screenshot](screenshot/screenshot.png)
@@ -12,3 +11,4 @@ this is not a project, it's just my hobby
 * https://bluearchive.wiki/wiki/Characters#
 
 thanks for checking my repo!
+![headband](Student-icons/Aris_Headband.png)
