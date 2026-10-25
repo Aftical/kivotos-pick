@@ -1,3 +1,4 @@
+![headband](Student-icons/Aris_Headband.png)
 ## Kivotos pick ##
 
 this is my webpage inspired by vercel kivotos pick.
@@ -10,4 +11,3 @@ I can't visit vercel site somehow and my only way is to implement and put a bunc
 * https://bluearchive.wiki/wiki/Characters#
 
 thanks for checking my repo!
-![headband](Student-icons/Aris_Headband.png)
